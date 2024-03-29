@@ -1,0 +1,122 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+
+  "breadcrumbs.enabled": false,
+
+  //workbench
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.iconTheme": "symbols",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.editor.labelFormat": "short",
+
+  //editor
+
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [80, 120],
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.renderLineHighlight": "gutter",
+  "editor.parameterHints.enabled": true,
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+
+  //autosave
+  "files.autoSave": "off",
+
+  // prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enable": true,
+  "prettier.singleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+
+  "colorize.languages": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg",
+    "typescript",
+    "javascript"
+  ],
+  "colorize.hide_current_line_decorations": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "window.titleBarStyle": "custom",
+
+  // "extensions.ignoreRecomendations": true,
+  // "javascript.updateImportsOnFileMove": "never",
+  // "typescript.updateImportsOnFileMove": "never",
+
+  //explorer
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": true,
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "tsx"
+  },
+
+  // "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+
+  "files.associations": {
+    ".sequelizerc": "javascript"
+  },
+
+  "editor.semanticHighlighting.enabled": false,
+
+  "liveshare.allowInvites": "all",
+  "liveshare.allowGuestDebugControl": true,
+  "liveshare.allowGuestTaskControl": true,
+  "liveshare.languages.allowGuestCommandControl": true,
+  "git.enableSmartCommit": true,
+
+  "sync.forceDownload": true,
+  "sync.forceUpload": true,
+
+  // terminal
+
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font ",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "workbench.editorAssociations": {
+    "*.exe": "default"
+  },
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.commandCenter": false,
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
+    "tailwind.config.js": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "explorer.fileNesting.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "symbols.hidesExplorerArrows": false
+}
