@@ -11,3 +11,10 @@ https://fishshell.com
 StarShip Theme <br>
 https://starship.rs
 
+JetBrains Mono <Br>
+https://www.jetbrains.com/pt-br/lp/mono/
+
+Jet Brains Mono NF with FL (For terminal) <br>
+https://www.nerdfonts.com/font-downloads
+
+
