@@ -3,12 +3,12 @@ A Json files with all my vscode settings, also I use fish as shell. A few days a
 
 # External Apps
 Warp
-<br>
+<br> <br/>
 https://www.warp.dev
-<br>
+<br><br/>
 Fish
 https://fishshell.com
-<br>
+<br><br/>
 StarShip Theme
 https://starship.rs
 
