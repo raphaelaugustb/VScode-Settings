@@ -1,5 +1,5 @@
 # VScode-Settings
-A Json files with all my vscode settings, also I use fish as shell. A few days ago I installed Warp Terminal, which I liked and now is my main. I'm going to put all the links for external uses (like fish,warp and etc).
+A JSON files with all my vscode settings, also I use fish as shell. A few days ago I installed Warp Terminal, which I liked and now is my main. I'm going to put all the links for external uses (like fish,warp and etc).
 
 You can see the theme and other extensions in the final of the JSON file or just for reading the arguments.
 
