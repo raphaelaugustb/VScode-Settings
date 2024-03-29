@@ -5,9 +5,9 @@ A Json files with all my vscode settings, also I use fish as shell. A few days a
 Warp <br> 
 https://www.warp.dev
 
-Fish
+Fish <br>
 https://fishshell.com
 
-StarShip Theme
+StarShip Theme <br>
 https://starship.rs
 
