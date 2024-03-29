@@ -120,3 +120,13 @@
   "terminal.integrated.defaultProfile.linux": "fish",
   "symbols.hidesExplorerArrows": false
 }
+
+//Extensions
+
+/*
+  Theme: Min Theme
+  Icons: Symbols
+  Docker
+  Gitlens
+  Prettier
+*/
